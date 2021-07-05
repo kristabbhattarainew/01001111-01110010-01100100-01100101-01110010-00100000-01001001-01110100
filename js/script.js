@@ -52,3 +52,19 @@ function voteBot() {
 function joinServer() {
   window.open("https://discord.gg/QfGMT3zphK")
 }
+
+function goCommands() {
+  window.open("https://docs.orderit.ga/commands")
+}
+
+function goAbout() {
+  window.open("https://docs.orderit.ga/about")
+}
+
+function goMenu() {
+  window.open("https://orderit.ga/")
+}
+
+function openDocs() {
+  window.open("https://docs.orderit.ga/")
+}
