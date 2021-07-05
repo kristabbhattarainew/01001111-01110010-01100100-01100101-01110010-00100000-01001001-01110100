@@ -54,7 +54,7 @@ function joinServer() {
 }
 
 function goCommands() {
-  window.open("https://docs.orderit.ga/commands")
+  window.open("https://orderit.kristab.ml/order-it/commands")
 }
 
 function goAbout() {
