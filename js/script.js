@@ -68,3 +68,7 @@ function goMenu() {
 function openDocs() {
   window.open("https://docs.orderit.ga/")
 }
+
+function goPolicy() {
+  window.open("https://orderit.ga/policy")
+}
