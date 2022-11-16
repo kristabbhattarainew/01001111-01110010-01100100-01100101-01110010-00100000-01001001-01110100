@@ -50,7 +50,7 @@ function voteBot() {
 }
 
 function joinServer() {
-  window.open("https://discord.gg/QfGMT3zphK")
+  window.open("https://discord.gg/ef7agGvEza")
 }
 
 function goCommands() {
