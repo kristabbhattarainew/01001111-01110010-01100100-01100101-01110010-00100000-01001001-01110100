@@ -42,7 +42,7 @@ else {
 }
 
 function inviteBot() {
-  window.open("https://discord.com/api/oauth2/authorize?client_id=716257964767445043&permissions=8&scope=applications.commands%20bot")
+  window.open("https://discord.com/api/oauth2/authorize?client_id=716257964767445043&permissions=274878024705&scope=applications.commands%20bot")
 }
 
 function voteBot() {
